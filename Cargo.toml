@@ -1,0 +1,8 @@
+[package]
+name = "cloumo-next"
+version = "0.1.0"
+authors = ["Kenta Kubo <601636+kkk669@users.noreply.github.com>"]
+edition = "2018"
+
+[dependencies]
+bootloader = { version = "0.8.0", features = ["vga_320x200"] }
